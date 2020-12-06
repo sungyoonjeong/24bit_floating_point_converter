@@ -2,6 +2,8 @@
 [Single Project] IEEE754 방식에 따라 24bit로 실수를 저장하는 코드
 
 1. Problem
+
+
 ![1](https://user-images.githubusercontent.com/73642643/101285044-823ed280-3826-11eb-9fd0-8b0fd02eb40c.JPG)
 
 
